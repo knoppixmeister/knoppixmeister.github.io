@@ -1,0 +1,2 @@
+(this["webpackJsonpknoppimeister.github.io"]=this["webpackJsonpknoppimeister.github.io"]||[]).push([[0],{9:function(e,t,i){"use strict";i.r(t);var n=i(1),p=i(0),c=i.n(p),r=i(3);function s(){return Object(n.jsx)("div",{children:"app"})}i.n(r).a.render(Object(n.jsx)(c.a.StrictMode,{children:Object(n.jsx)(s,{})}),document.getElementById("app"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.69d8effc.chunk.js.map
