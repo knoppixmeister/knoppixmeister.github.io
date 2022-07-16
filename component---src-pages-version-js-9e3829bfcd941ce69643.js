@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[398],{9025:function(n,e,t){t.r(e),t.d(e,{default:function(){return r}});var a=t(7294);function r(n){var e=n.data;return a.createElement("div",null,"version: ",e.gitBranch.name+" || "+e.gitCommit.hash)}}}]);
